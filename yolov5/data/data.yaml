@@ -8,6 +8,6 @@ names: ['shark']
 roboflow:
   workspace: shark-detection-gxvv3
   project: stat3007-shark-detection
-  version: 1
+  version: 2
   license: MIT
-  url: https://universe.roboflow.com/shark-detection-gxvv3/stat3007-shark-detection/dataset/1
+  url: https://universe.roboflow.com/shark-detection-gxvv3/stat3007-shark-detection/dataset/2
