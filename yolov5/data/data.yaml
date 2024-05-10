@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['shark']
+
+roboflow:
+  workspace: shark-detection-gxvv3
+  project: stat3007-shark-detection
+  version: 1
+  license: MIT
+  url: https://universe.roboflow.com/shark-detection-gxvv3/stat3007-shark-detection/dataset/1
